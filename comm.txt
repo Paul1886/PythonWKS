@@ -1,0 +1,42 @@
+   26  wpm
+   27  sudo pacman -Syu
+   28  systemctl reboot
+   29  /usr/bin/python /home/tidus/Sample/p1.py
+   30  pwd
+   31  git init
+   32  git add p1.py
+   34  git config --global user.email "nitinpaul2101@gmail.com"
+   35  git comcommit
+   36  git commit -m "added first program"
+   37  git remote add origin https://github.com/Paul1886/SamplePrograms.git
+   38  git ush 
+   40      git push --set-upstream origin master
+   41  git push
+   42  git pull
+   43  cat README.md
+   
+   2nd phase
+     git config --global user.email "nitinpaul2101@gmail.com"
+   40  git commit -m "added first program"
+   41  git remote add origin https://github.com/Paul1886/PythonWKS.git
+   42  git push --set-upsteam origin master
+   43  git push --set-upstream origin master
+   46  lc
+   47  ls
+   49  git add .
+   50  git push p1.py
+   51  git commit -m "added first programs"
+   52  git add . 
+   53  git commit -m "added second program"
+   54  git push 
+   55  git add p1.py
+   56  git commit -m "bug fixes"
+   57  git push
+    git add . # its a wildcharacter its updates fully
+    git add filename 
+    for ex git add p2.py # it updates only specific file
+    git commit -m "Sample"
+    git push # final command to add the file to git
+    
+    
+   
